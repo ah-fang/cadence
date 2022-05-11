@@ -1,2 +1,2 @@
-# cadence
+# Cadence
 Running times app
