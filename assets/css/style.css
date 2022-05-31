@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#start-stop-btn {
+    background-color: rgb(220, 20, 30);
+    width: 200px;
+    border: 2px solid black;
+}
+
+#split-btn {
+    background-color: rgb(20, 200, 40);
+    width: 200px;
+    border: 2px solid black;
+}
+
+#save-btn {
+    background-color: rgb(20, 200, 240);
+    width: 200px;
+    border: 2px solid black;
+}
+
+button:hover {
+    color: white;
+}
